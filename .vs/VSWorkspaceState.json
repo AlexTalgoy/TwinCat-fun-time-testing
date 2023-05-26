@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TwinCAT fun time testing",
+    "\\TwinCAT fun time testing\\TwinCAT fun time testing",
+    "\\TwinCAT fun time testing\\TwinCAT fun time testing\\plc1",
+    "\\TwinCAT fun time testing\\TwinCAT fun time testing\\plc1\\POUs"
+  ],
+  "SelectedNode": "\\TwinCAT fun time testing\\TwinCAT fun time testing\\plc1\\POUs\\MAIN.TcPOU",
+  "PreviewInSolutionExplorer": false
+}
