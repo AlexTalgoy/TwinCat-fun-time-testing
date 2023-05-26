@@ -21,7 +21,10 @@ END_VAR
 
 IF bird = window THEN
 	freeLunch := TRUE;
-END_IF]]></ST>
+END_IF
+
+
+]]></ST>
     </Implementation>
   </POU>
 </TcPlcObject>

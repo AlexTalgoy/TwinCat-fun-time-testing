@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.12">
+  <POU Name="StDrool" Id="{9af66e64-35ca-4a5c-a114-7dd5c387482a}" SpecialFunc="None">
+    <Declaration><![CDATA[PROGRAM StDrool
+VAR
+	CaseCool: INT;
+	Minions: INT;
+	WorkAtUS: INT;
+	JustinAndAlex: INT;
+	lookFly: INT;
+END_VAR
+]]></Declaration>
+    <Implementation>
+      <ST><![CDATA[CASE CaseCool OF 
+	0:
+		Minions := WorkAtUS;
+		
+	1: 
+		//free cars for everybody
+		
+	2: 
+		JustinAndAlex := lookFly;
+		
+		
+END_CASE
+
+]]></ST>
+    </Implementation>
+  </POU>
+</TcPlcObject>
