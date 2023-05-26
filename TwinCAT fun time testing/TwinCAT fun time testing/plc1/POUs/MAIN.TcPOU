@@ -5,11 +5,23 @@
 VAR
 	bing: BOOL;
 	bong: BOOL;
+	
+	Bird :BOOL;
+	Window :BOOL;
+	FreeLunch :BOOL;
+	
+	
 END_VAR
 ]]></Declaration>
     <Implementation>
       <ST><![CDATA[bing := bong;
-]]></ST>
+
+
+
+
+IF bird = window THEN
+	freeLunch := TRUE;
+END_IF]]></ST>
     </Implementation>
   </POU>
 </TcPlcObject>
