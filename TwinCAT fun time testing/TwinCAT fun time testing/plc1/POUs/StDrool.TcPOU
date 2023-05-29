@@ -4,7 +4,7 @@
     <Declaration><![CDATA[PROGRAM StDrool
 VAR
 	CaseCool: INT;
-	Minions: INT;
+	YellowMinions: INT;
 	WorkAtUS: INT;
 	JustinAndAlex: INT;
 	lookFly: INT;
@@ -13,7 +13,7 @@ END_VAR
     <Implementation>
       <ST><![CDATA[CASE CaseCool OF 
 	0:
-		Minions := WorkAtUS;
+		YellowMinions := WorkAtUS;
 		
 	1: 
 		//free cars for everybody

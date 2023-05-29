@@ -11,11 +11,11 @@ VAR
 	FreeLunch :BOOL;
 	
 	
+	
 END_VAR
 ]]></Declaration>
     <Implementation>
       <ST><![CDATA[bing := bong;
-
 
 
 
