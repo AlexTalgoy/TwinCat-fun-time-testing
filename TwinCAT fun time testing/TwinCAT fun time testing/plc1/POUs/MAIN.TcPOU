@@ -6,7 +6,7 @@ VAR
 	bing: BOOL;
 	bong: BOOL;
 	ProfessorOak: INT;
-	bangedAshsMOM: INT;
+	givespokemon: INT;
 END_VAR
 ]]></Declaration>
     <Implementation>
@@ -14,7 +14,7 @@ END_VAR
 
 
 
-ProfessorOak := bangedAshsMOM;
+ProfessorOak := givespokemon;
 
 
 
